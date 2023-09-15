@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @Kevincango
+- I am currently an SAP Consultant
+- 💻 I am learning more about Frontend and Backend development
 - 📫 How to reach me www.linkedin.com/in/kevincgomez98.
 
 <!---
