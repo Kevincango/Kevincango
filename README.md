@@ -2,6 +2,7 @@
 - I am currently an SAP Consultant
 - 💻 I am learning more about Frontend and Backend development
 - 📫 How to reach me www.linkedin.com/in/kevincgomez98.
+- https://exercism.org/profiles/Kevincango
 
 <!---
 Kevincango/Kevincango is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
