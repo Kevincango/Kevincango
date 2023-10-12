@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kevincango
-- I am currently an SAP Consultant
+- I am currently an SAP Analytics Consultant - Plateau/SAC
 - 💻 I am learning more about Frontend and Backend development
 - 📫 How to reach me www.linkedin.com/in/kevincgomez98.
 - Exercism profile: https://exercism.org/profiles/Kevincango
